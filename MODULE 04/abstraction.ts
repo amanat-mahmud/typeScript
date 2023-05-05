@@ -33,7 +33,7 @@ interface Vehicle {
     // }
 //   }
   
-//  const vehicle1 = new Car("Car", "Toyota", 2000);
+//  const vehicle1 = new Vehicle("Car", "Toyota", 2000);
   
   // //abstract class
   
