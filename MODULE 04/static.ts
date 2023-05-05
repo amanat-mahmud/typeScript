@@ -16,5 +16,5 @@ class Counter {
   // const instance1 = new Counter();
   // const instance2 = new Counter();
   //console.log(instance1.increment())
-  console.log(Counter.increment()); // 0-1
-  console.log(Counter.increment()); // 1-2
+  console.log(Counter.increment()); // 0+1 -> 1
+  console.log(Counter.increment()); // 1+1 -> 2
